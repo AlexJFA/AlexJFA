@@ -1,7 +1,7 @@
 - 👋 Hola soy @Alexander2378.  <img align="right" alt="GIF" src="https://media4.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif?cid=790b7611a4fb4b1784de5a86db736dd367ba20963d124418&rid=giphy.gif&ct=g" width="300" height="300" />
 
 
-- 💻 Soy FrontEnd Developer y actualmente estoy trabajando en aplicaciones web.
+- 💻 Soy Front-End Developer y actualmente estoy trabajando en aplicaciones web.
 - ✅ Me gusta la maquetacion e implementacion en el front-ent.
 - ✍ Tiendo a pensar más sobre cómo mejorar la experiencia del usuario en las aplicaciones que desarrollo.
 
